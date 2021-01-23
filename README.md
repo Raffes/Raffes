@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raffes&layout=compact&theme=dracula" alt="Raffes" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Raffes&show_icons=true&theme=dracula" alt="Raffes"/> 
+
+
 <!--
 **Raffes/Raffes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
