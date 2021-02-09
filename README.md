@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 <img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raffes&layout=compact&theme=dracula" alt="Raffes" />
 
