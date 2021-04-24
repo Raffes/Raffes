@@ -2,9 +2,9 @@
 
 ## Essas são minhas redes:
 
-[<img width="30px" height="30px" align="left" alt="marco | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" title="Gmail"/>][gmail]
+[<img width="30px" height="30px" target="_blank" align="left" alt="marco | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" title="Gmail"/>][gmail]
 
-[<img width="30px" height="30px" align="left" alt="marco | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" title="LikedIn"/>][linkedin]
+[<img width="30px" height="30px" target="_blank" align="left" alt="marco | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" title="LikedIn"/>][linkedin]
 
 <!--[<img width="30px" height="30px" align="left" alt="marco | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" title="FaceBook"/>][facebook]
 
