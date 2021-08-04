@@ -19,7 +19,7 @@
 [instagram]: -->
 [gmail]: mailto:rafaelaperes215@gmail.com
 <!--[dev]: -->
-[github]: https://github.com/Raffes?tab=repositories
+[github]: Raffes.github.io
 
 <!--<img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raffes&layout=compact&theme=dracula" alt="Raffes" />
 
