@@ -1,5 +1,10 @@
 ### Olá 👋
 
+## Biblioteca
+<ul>
+    <li><a href="https://www.npmjs.com/package/util-mask" target="_blank">Util-Mask</a></li>
+</ul>
+
 ## Essas são minhas redes:
 
 [<img width="30px" height="30px" align="left" alt="marco | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" title="Gmail"/>][gmail]
@@ -41,7 +46,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>Biblioteca</h3>
-<ul>
-    <li><a href="https://www.npmjs.com/package/util-mask" target="_blank">Util-Mask</a></li>
-</ul>
+
